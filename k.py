@@ -1,1 +1,1 @@
-print"basu gandu"
+print"basu boy"
